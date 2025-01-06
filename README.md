@@ -5,3 +5,18 @@ Self-harm behaviors in the dataset are limited to "cutting" actions targeting sp
 
 paper link : None
 ## Instructions for Requesting Dataset Access
+Please send an email with the required information to zv@ziovision.co.kr
+The information you need to include in your email is as follows:
+- User Information
+  - Name
+  - Affilation (Organization/Institution)
+  - Position/Role
+- Purpose of Use
+  - Detailed description how the dataset will be used
+- Declaration of Commitment
+  - Non-Disclosure Aggrement
+  - Signature Requirement: The signed document should be attached to the email as a file
+ 
+If your request is approved, you will received a reply containing a link to access the dataset
+## Declaration of Commitment Form
+TBD
