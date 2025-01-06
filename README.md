@@ -9,7 +9,7 @@ Please send an email with the required information to zv@ziovision.co.kr
 The information you need to include in your email is as follows:
 - User Information
   - Name
-  - Affilation (Organization/Institution)
+  - Organization/Institution
   - Position/Role
 - Purpose of Use
   - Detailed description how the dataset will be used
