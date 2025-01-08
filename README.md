@@ -29,40 +29,40 @@ paper link : None
     <td>0.5497</td>
   </tr>
   <tr>
-    <td>TSN</td>
-    <td>0.6359</td>
-    <td>0.6343</td>
-    <td>0.6351</td>
-    <td>0.5476</td>
-    <td>0.5518</td>
-    <td>0.5497</td>
+    <td>SlowFast</td>
+    <td>0.5685</td>
+    <td>0.6006</td>
+    <td>0.5841</td>
+    <td>0.5828</td>
+    <td>0.6235</td>
+    <td>0.6025</td>
   </tr>
   <tr>
-    <td>TSN</td>
-    <td>0.6359</td>
-    <td>0.6343</td>
-    <td>0.6351</td>
-    <td>0.5476</td>
-    <td>0.5518</td>
-    <td>0.5497</td>
+    <td>TimeSformer</td>
+    <td>0.5643</td>
+    <td>0.5728</td>
+    <td>0.5685</td>
+    <td>0.5868</td>
+    <td>0.6193</td>
+    <td>0.6026</td>
   </tr>
   <tr>
-    <td>TSN</td>
-    <td>0.6359</td>
-    <td>0.6343</td>
-    <td>0.6351</td>
-    <td>0.5476</td>
-    <td>0.5518</td>
-    <td>0.5497</td>
+    <td>Uniformerv2</td>
+    <td>0.6999</td>
+    <td>0.7031</td>
+    <td>0.7015</td>
+    <td>0.6220</td>
+    <td>0.6395</td>
+    <td>0.6306</td>
   </tr>
   <tr>
-    <td>TSN</td>
-    <td>0.6359</td>
-    <td>0.6343</td>
-    <td>0.6351</td>
-    <td>0.5476</td>
-    <td>0.5518</td>
-    <td>0.5497</td>
+    <td>VideoMAEv2</td>
+    <td>0.7378</td>
+    <td>0.7350</td>
+    <td>0.7364</td>
+    <td>0.7733</td>
+    <td>0.7895</td>
+    <td>0.7813</td>
   </tr>
   <tr>
     <td>C2FPL</td>
@@ -74,6 +74,7 @@ paper link : None
     <td>0.3519</td>
   </tr>
 </table>
+
 ## Instructions for Requesting Dataset Access
 Please send an email with the required information, along with the declaration form, to zv@ziovision.co.kr
 The information you need to include in your email is as follows:
