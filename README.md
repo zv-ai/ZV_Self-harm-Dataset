@@ -6,6 +6,20 @@ Self-harm behaviors in the dataset are limited to "cutting" actions targeting sp
 <img src="figures/dataset_example.png" height="600px"/>
 
 paper link : None
+## Results
+<table>
+  <tr>
+    <td rowspan="2">Models</td>
+    <td colspan="3">Validation</td>
+    <td colspan="3">Test</td>
+  </tr>
+    <td>Recall</td>
+    <td>Precision</td>
+    <td>F1-score</td>
+    <td>Recall</td>
+    <td>Precision</td>
+    <td>F1-score</td>
+</table>
 ## Instructions for Requesting Dataset Access
 Please send an email with the required information, along with the declaration form, to zv@ziovision.co.kr
 The information you need to include in your email is as follows:
