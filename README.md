@@ -19,6 +19,60 @@ paper link : None
     <td>Recall</td>
     <td>Precision</td>
     <td>F1-score</td>
+  <tr>
+    <td>TSN</td>
+    <td>0.6359</td>
+    <td>0.6343</td>
+    <td>0.6351</td>
+    <td>0.5476</td>
+    <td>0.5518</td>
+    <td>0.5497</td>
+  </tr>
+  <tr>
+    <td>TSN</td>
+    <td>0.6359</td>
+    <td>0.6343</td>
+    <td>0.6351</td>
+    <td>0.5476</td>
+    <td>0.5518</td>
+    <td>0.5497</td>
+  </tr>
+  <tr>
+    <td>TSN</td>
+    <td>0.6359</td>
+    <td>0.6343</td>
+    <td>0.6351</td>
+    <td>0.5476</td>
+    <td>0.5518</td>
+    <td>0.5497</td>
+  </tr>
+  <tr>
+    <td>TSN</td>
+    <td>0.6359</td>
+    <td>0.6343</td>
+    <td>0.6351</td>
+    <td>0.5476</td>
+    <td>0.5518</td>
+    <td>0.5497</td>
+  </tr>
+  <tr>
+    <td>TSN</td>
+    <td>0.6359</td>
+    <td>0.6343</td>
+    <td>0.6351</td>
+    <td>0.5476</td>
+    <td>0.5518</td>
+    <td>0.5497</td>
+  </tr>
+  <tr>
+    <td>C2FPL</td>
+    <td>0.5</td>
+    <td>0.1931</td>
+    <td>0.2786</td>
+    <td>0.5</td>
+    <td>0.2715</td>
+    <td>0.3519</td>
+  </tr>
 </table>
 ## Instructions for Requesting Dataset Access
 Please send an email with the required information, along with the declaration form, to zv@ziovision.co.kr
